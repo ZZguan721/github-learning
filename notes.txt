@@ -7,3 +7,7 @@ README: 项目说明文件
 仓库 Repository
   └── 文件
        └── 每次修改形成 Commit
+Clone: 将远程仓库复制到本地电脑
+Commit: 保存一次本地修改记录
+Push: 将本地提交上传到 GitHub
+Pull: 将 GitHub 上的新修改下载到本地
