@@ -12,3 +12,8 @@ This is my first GitHub repository.
 ## About Me
 
 I am learning GitHub for data analysis, academic research, and website development.
+## Tools
+
+- GitHub
+- GitHub Desktop
+- Visual Studio Code
