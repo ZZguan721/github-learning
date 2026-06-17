@@ -3,3 +3,7 @@ GitHub learning notes
 Repository: 项目仓库
 Commit: 修改记录
 README: 项目说明文件
+结构
+仓库 Repository
+  └── 文件
+       └── 每次修改形成 Commit
